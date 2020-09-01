@@ -6,3 +6,6 @@ Before using this code, you need to install OpenCV python. If you are using Open
 
 
 The threshold for detecting can be changed.
+
+
+knn.py can generate images for each frame, using img2video.py can convert images to video.
