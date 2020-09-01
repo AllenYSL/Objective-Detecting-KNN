@@ -1,4 +1,4 @@
-# Objective-Detective-KNN
+# Objective-Detecting-KNN
 Using KNN from OpenCV python, a background subtraction method.
 
 
